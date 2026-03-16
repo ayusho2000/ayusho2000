@@ -3,8 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Ojha</h1>
 <h3 align="center">A passionate software engineer with strong interest in building scalable systems and learning new technologies.</h3>
 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/00096291-c3f3-40a3-84f6-378ed146ea8d" />
-
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/f24c76c5-8421-4070-a281-d3d723045ad7" />
 
 
 <h3 align="left">Connect with me:</h3>
