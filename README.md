@@ -1,3 +1,5 @@
+![logo](https://github.com/ayusho2000/ayusho2000/tree/main/Banner.png)
+
 <h1 align="center">Hi 👋, I'm Ayush Ojha</h1>
 <h3 align="center">A passionate software engineer with strong interest in building scalable systems and learning new technologies.</h3>
 
